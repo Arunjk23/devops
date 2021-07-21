@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BrowserTest {
 
-	
+	// this is to test the github commit
 	@Test
 	public void getData()
 	{
