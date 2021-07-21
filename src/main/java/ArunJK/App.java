@@ -1,4 +1,4 @@
-package Academy;
+package ArunJK;
 
 /**
  * Hello world!
